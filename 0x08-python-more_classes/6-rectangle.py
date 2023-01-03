@@ -1,6 +1,5 @@
-
-w many instances"""
-
+#!/usr/bin/python3
+"""6 - How many instances"""
 
 class Rectangle():
     """Representation of a Rectangle"""
